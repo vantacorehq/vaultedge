@@ -1,0 +1,12 @@
+[package]
+name = "vaultedge"
+version = "0.1.0"
+edition = "2021"
+description = "Secrets rotation and short-lived signed tokens (HMAC). Audit every request, instant revoke. Pure Rust."
+license = "MIT"
+repository = "https://github.com/vantacorehq/vaultedge"
+keywords = ["secrets", "tokens", "hmac", "jwt", "rotation"]
+categories = ["authentication", "cryptography"]
+
+[dependencies]
+# zero dependencies
