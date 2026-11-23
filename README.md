@@ -56,10 +56,6 @@ fn main() {
 }
 ```
 
-## Commercial
-
-Centralized short-lived key issuance with audit and revoke: **$1 200 – $3 500**.
-
 ## License
 
 MIT
